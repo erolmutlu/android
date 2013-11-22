@@ -5,15 +5,15 @@
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
 
-  <remote  name="github"
-           fetch=".."
-           review="review.cyanogenmod.org" />
+  <remote name="cm"
+           fetch="https://github.com/CyanogenMod/"
+           review="review.cyanogenmod.com" />
 
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
   <default revision="refs/heads/cm-11.0"
-           remote="github"
+           remote="cm"
            sync-c="true"
            sync-j="4" />
 
