@@ -474,4 +474,5 @@
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" />
   <project path="device/samsung/n7100" name="erolmutlu/android_device_samsung_n7100" />
   <project path="device/samsung/i9100" name="erolmutlu/android_device_samsung_i9100" />
+  <project path="device/samsung/galaxys2-common" name="erolmutlu/android_device_samsung_galaxys2-common" />
 </manifest>
