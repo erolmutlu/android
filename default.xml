@@ -227,6 +227,7 @@
   <project path="external/protobuf" name="CyanogenMod/android_external_protobuf" groups="pdk" />
   <project path="external/qemu" name="CyanogenMod/android_external_qemu" />
   <project path="external/qemu-pc-bios" name="CyanogenMod/android_external_qemu-pc-bios" />
+  <project path="external/qrngd" name="CyanogenMod/android_external_qrngd" />
   <project path="external/regex-re2" name="CyanogenMod/android_external_regex-re2" />
   <project path="external/replicaisland" name="CyanogenMod/android_external_replicaisland" />
   <project path="external/robolectric" name="platform/external/robolectric" remote="aosp" revision="refs/tags/android-4.4.2_r1" />
@@ -471,7 +472,6 @@
   <project path="vendor/tmobile/apps/ThemeChooser" name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="CyanogenMod/android_vendor_tmobile_libs_com.tmobile.themes" />
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
-
 
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" />
   <project path="device/samsung/n7100" name="erolmutlu/android_device_samsung_n7100" />
