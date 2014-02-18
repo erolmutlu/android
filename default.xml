@@ -475,4 +475,5 @@
   <project path="vendor/tmobile/providers/ThemeManager" name="CyanogenMod/android_vendor_tmobile_providers_ThemeManager" />
 
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" />
+  <project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" />
 </manifest>
